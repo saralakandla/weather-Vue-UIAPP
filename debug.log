@@ -1,0 +1,3 @@
+[0118/144255.507:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Footper\: Access is denied. (0x5)
+[0118/144255.515:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0118/144255.516:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Footper\: Access is denied. (0x5)
