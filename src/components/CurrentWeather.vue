@@ -18,7 +18,7 @@
           </p>
         </div>
 
-        <div v-if="!cwaErrors.length" class="card">
+        <div v-if="!cwaErrors.length" class="waCard">
           <!-- Card content -->
           <b-card header-tag="header">
             <template v-slot:header>
